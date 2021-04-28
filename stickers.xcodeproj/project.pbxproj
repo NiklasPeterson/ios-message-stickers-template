@@ -308,7 +308,7 @@
 				DEVELOPMENT_TEAM = VHR6ZVVAJ5;
 				INFOPLIST_FILE = stickers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.niklaspeterson.stickers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.niklaspeterson.Stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -322,7 +322,7 @@
 				DEVELOPMENT_TEAM = VHR6ZVVAJ5;
 				INFOPLIST_FILE = stickers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.niklaspeterson.stickers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.niklaspeterson.Stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
